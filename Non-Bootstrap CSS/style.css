@@ -1,0 +1,64 @@
+
+body {
+	margin-left: auto;
+	margin-right: auto;
+	width: 980px;
+	
+	background-image: url("/images/paper3.png");
+	background-position: center top;
+	
+	font-family:"Verdana";
+	font-size: 14px;
+}
+header {
+	padding: 20px;
+	
+	text-align: center;
+}
+h1 {
+	font-family:"Paperweight";
+	font-size: 108px;
+}
+nav {
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+}
+nav ul {
+	margin: 0;
+	padding: 0;
+	float: right;
+	clear: both;
+	
+	list-style-type: none;
+	
+	background-color: #EEEEEE;
+}
+nav li {
+	float: right;
+}
+nav a {
+	padding: 8px;
+	display: block;
+	
+	background-color: #DDDDDD;
+}
+section {
+	width: 760px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	
+	background-color: #AAAAAA;
+}
+div nav {
+	float: right;
+}
+div p {
+	float: right;
+	clear: right;
+	
+	background-color: #BBBBBB;
+}
+
+/* Scarce; 2016.9.10 */

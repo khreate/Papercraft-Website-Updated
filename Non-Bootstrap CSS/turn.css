@@ -1,0 +1,17 @@
+div.stats {
+	overflow: hidden;	
+}
+
+aside.characteristics {
+	float: left;
+	
+	width: 420px;
+}
+
+aside.inventory {
+	float: right;
+	
+	width: 420px;
+}
+
+/* Scarce; 2016.9.17 */
